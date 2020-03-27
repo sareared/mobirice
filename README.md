@@ -1,0 +1,2 @@
+# mobirice
+GitHub Pages
